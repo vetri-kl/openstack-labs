@@ -189,3 +189,4 @@ Atest [5] This is a test.
 - **XaaS** [1] Anything as a service.
 - **Ingress** [99] Analogous to incoming traffic or data
 - **Egress** [100] Analogous to outgoing traffic or data
+- **DRBD** refers to block devices designed as a building block to form high availability (HA) clusters.
